@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "800e2333-c992-4ad3-9684-fd6743ba5af0": {
+      "ProjectGuid": "800e2333-c992-4ad3-9684-fd6743ba5af0",
+      "DisplayName": "UserLogin",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6da658e9-a4a2-4b26-ab2d-783615bae561": {
+      "ProjectGuid": "6da658e9-a4a2-4b26-ab2d-783615bae561",
+      "DisplayName": "StudentInfoSystem",
+      "ColorIndex": 1
+    },
+    "e61b57cb-1eff-449f-96ec-d1db7ff02178": {
+      "ProjectGuid": "e61b57cb-1eff-449f-96ec-d1db7ff02178",
+      "DisplayName": "WPFhello",
+      "ColorIndex": 2
+    },
+    "d0130daf-d170-4cb1-85a7-58b9d7fcffb1": {
+      "ProjectGuid": "d0130daf-d170-4cb1-85a7-58b9d7fcffb1",
+      "DisplayName": "WPF",
+      "ColorIndex": 3
+    },
+    "e3d622ca-535b-44cc-9bd5-e73c1964ec61": {
+      "ProjectGuid": "e3d622ca-535b-44cc-9bd5-e73c1964ec61",
+      "DisplayName": "WHello",
+      "ColorIndex": 4
+    },
+    "d7eaa9c0-0199-47e7-9bdb-4e15f63c6cdd": {
+      "ProjectGuid": "d7eaa9c0-0199-47e7-9bdb-4e15f63c6cdd",
+      "DisplayName": "WpfHello",
+      "ColorIndex": 5
+    },
+    "d9ea2e72-f6b2-4ccd-b7ae-47ea063b9618": {
+      "ProjectGuid": "d9ea2e72-f6b2-4ccd-b7ae-47ea063b9618",
+      "DisplayName": "ExpenseIt",
+      "ColorIndex": 6
+    },
+    "b3dede5d-c1a8-4ee5-b22d-28ba2843409a": {
+      "ProjectGuid": "b3dede5d-c1a8-4ee5-b22d-28ba2843409a",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 7
+    },
+    "503cd4a0-30c8-4710-9fbc-e83257dbc585": {
+      "ProjectGuid": "503cd4a0-30c8-4710-9fbc-e83257dbc585",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 8
+    },
+    "2376c7f8-61e9-4a35-8a21-5310a6ef049d": {
+      "ProjectGuid": "2376c7f8-61e9-4a35-8a21-5310a6ef049d",
+      "DisplayName": "WPFExample",
+      "ColorIndex": 9
+    },
+    "482a1a39-7704-42cb-81d5-7660b796cef2": {
+      "ProjectGuid": "482a1a39-7704-42cb-81d5-7660b796cef2",
+      "DisplayName": "EasyMVVM",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}
